@@ -18,6 +18,7 @@ use ui::UiPlugin;
 
 /* 
 TODO: 
+    * Pfadvorhersagung für Planeten: Drwa Funktion evetuell fixed update -> 10Hz?
     * Hintergrund Shader
     * Shader für den Pfad der Planeten
     * Speichern von aktuellen Planetenpositionen -geschwindigkeiten und -beschleunigungen (für speichern und laden von "Spielständen")
